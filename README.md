@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer, focused on web development area with more than 10 years of experience, especially with Javascript.<br><br>
+Experienced Frontend Developer with over 10 years of expertise working on diverse projects, ranging from small-scale applications to enterprise solutions within multicultural and multi time zone Agile teams. Proficient in handling both legacy systems and building applications from the ground up. Skilled in Angular and currently enthusiastic about learning Vue 3 with Vite.<br><br>
 
 
 ## 🌐 Socials:
